@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RestartGPU")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Application to restart Nvidia GPU (specifically for 2020 Zephyrus G14)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("AlexRedden")]
 [assembly: AssemblyProduct("RestartGPU")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
