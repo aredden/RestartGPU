@@ -28,3 +28,6 @@ Click "Ok", test by putting the laptop to Sleep and/or Hibernate.
 When it wakes, you should see the Command Prompt window notifying you of the dGPU being reset
 
 _Be aware that this will kick off all apps using the nvidia gpu, including games._
+
+### License
+[MIT](https://github.com/aredden/RestartGPU/blob/master/LICENSE)
